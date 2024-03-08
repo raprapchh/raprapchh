@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raprapchh
 - 👀 I’m interested in IT, sneakers, basketball
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning at Epitech Paris
 - 📫 How to reach me raph.chanliongco@outlook.com
 - ⚡ Fun fact: ...
 
