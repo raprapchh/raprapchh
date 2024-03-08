@@ -2,7 +2,6 @@
 - 👀 I’m interested in IT, sneakers, basketball
 - 🌱 I’m currently learning at Epitech Paris
 - 📫 How to reach me raph.chanliongco@outlook.com
-- ⚡ Fun fact: ...
 
 <!---
 raprapchh/raprapchh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
