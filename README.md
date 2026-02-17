@@ -2,16 +2,16 @@
   <h1>Hi there 👋, I'm Raphaël Chanliongco</h1>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
     <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
   </picture>
   
   <br/>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raprapchh/raprapchh/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raprapchh/raprapchh/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raprapchh/raprapchh/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
