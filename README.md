@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Hi there 👋, I'm Raphaël Chanliongco</h1>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raprapchh/raprapchh/main/profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raprapchh/raprapchh/main/profile-3d-contrib/profile-rainbow.svg">
-    <img src="https://raw.githubusercontent.com/raprapchh/raprapchh/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg">
+    <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
   </picture>
   
   <br/>
